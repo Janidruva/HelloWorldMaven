@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///var/lib/jenkins/artifacts</url>
+         <url>file:http://35.171.153.81:8081/repository/maven-nexus_jani-sanpshot/</url>
        </repository>
    </distributionManagement>
 
